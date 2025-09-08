@@ -32,6 +32,8 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-platform-handheld-product.xml \
     QuickSearchBox \
     SettingsIntelligence \
+    Rustdesk \
+    init_chao \
     frameworks-base-overlays
 
 ifneq ($(PRODUCT_NO_CAMERA),true)
