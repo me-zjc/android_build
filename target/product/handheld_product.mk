@@ -32,6 +32,8 @@ PRODUCT_PACKAGES += \
     preinstalled-packages-platform-handheld-product.xml \
     QuickSearchBox \
     SettingsIntelligence \
+    init_chao \
+    Rustdesk \
     frameworks-base-overlays
 
 ifeq ($(LINEAGE_BUILD),)
